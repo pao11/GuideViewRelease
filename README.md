@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/pao11/GuideViewRelease.svg)](https://jitpack.io/#pao11/GuideViewRelease)
 
 # 概况
 功能导航页view
