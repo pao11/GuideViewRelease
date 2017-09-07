@@ -46,7 +46,7 @@ Step 2. Add the dependency
         android:layout_height="match_parent"
         app:HighlightViewStyle="circle"
         app:MaskBlurStyle="solid"
-        app:maskColor="#aaa26956"
+        app:maskColor="#aa565656"
         app:tipView="@mipmap/tip_view" />
 
 ````
