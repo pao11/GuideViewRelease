@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/pao11/GuideViewRelease.svg)](https://jitpack.io/#pao11/GuideViewRelease)
+[![Travis](https://img.shields.io/badge/Gradle-2.3.1-brightgreen.svg)]()
 
 # 概况
 功能导航页view
